@@ -1,0 +1,11 @@
+﻿  serial_example.cc
+  LogProvider.cpp
+  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\semaphore(16): warning STL4038: The contents of <semaphore> are available only with C++20 or later.
+D:\project\github\serial-main\visual_studio\test_serial\main.cpp(507,24): warning C4101: 'sz': unreferenced local variable
+D:\project\github\serial-main\visual_studio\test_serial\main.cpp(505,24): warning C4101: 'state': unreferenced local variable
+  Generating Code...
+D:\project\github\serial-main\examples\serial_example.cc(182,1): warning C4715: 'main_example': not all control paths return a value
+  test_serial.vcxproj -> D:\project\github\serial-main\visual_studio\x64\Debug\test_serial.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

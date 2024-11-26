@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Directory
+/.vs
+/out
+/visual_studio/.vs
+/visual_studio/x64
